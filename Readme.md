@@ -1,4 +1,4 @@
-![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg =100x20)
+![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg)
 
 # Projet final du Kit Data Science 2020
 
@@ -7,7 +7,7 @@ Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné
 * récupération de données par scrapping (beautiful soup)
 * nettoyage et manipulation des données sur Pandas
 * utilisation des timeseries
-![timeserie](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Timeserie.PNG) 
+![timeserie](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Timeserie.PNG =100*20) 
 * visualisations via diverses libraires
 ![carte](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Carte.PNG) 
 
