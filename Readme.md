@@ -1,15 +1,15 @@
 # Projet final du Kit Data Science 2020
 
-Ce projet académique a pour but d'évaluer les compétences en programmation Python couverte pendant l'enseignement à savoir :
+Ce projet académique évalue et clôture l'enseignement donné par Francis Wolinski (https://github.com/fran6w) à Telecom Paris pour le mastère spécialisé Big Data et IA. Il couvre les différents aspect :
 
-* récupération de données via webscrapping
+* récupération de données par scrapping (beautiful soup)
 * nettoyage et manipulation des données sur Pandas
 * utilisation des timeseries
 * visualisations via diverses libraires
 
 Le notebook est consultable ici et fait référence à plusieurs fichiers pickle. Il nécessite l'installation des librairies
 
-# Enoncé
+# Enoncé (source https://github.com/fran6w/MDI721/tree/master/projet_final)
 Le projet final du Kit Data Science 2020 porte sur les données du **Vendée Globe 2020-2021**.
 
 Le projet se déroule **du vendredi 20 et le 30 lundi novembre 2020** date limite pour rendre vos projets respectifs.
