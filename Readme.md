@@ -1,4 +1,4 @@
-![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg)
+![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg=100x20)
 
 # Projet final du Kit Data Science 2020
 
