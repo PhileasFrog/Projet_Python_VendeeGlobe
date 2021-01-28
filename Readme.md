@@ -1,4 +1,4 @@
-![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg#thumbnail)
+![carte](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Carte.PNG) 
 
 # Projet final du Kit Data Science 2020
 
@@ -7,12 +7,7 @@ Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné
 * récupération de données par scrapping (beautiful soup)
 * nettoyage et manipulation des données sur Pandas
 * utilisation des timeseries
-![timeserie](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Timeserie.PNG#thumbnail) {
-   width:150px;
-   height:100px;
-}
 * visualisations via diverses libraires
-![carte](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Carte.PNG) 
 
 Le notebook est consultable [ici](https://github.com/PhileasFrog/VendeeGlobe/blob/main/Projet_Jeancler_Dominique.ipynb). Il nécessite l'installation de la librairie ipyleaflet installable directement dans le notebook via la commande `pip install ipyleaflet` et `--py --sys-prefix ipyleaflet`
 
