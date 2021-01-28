@@ -1,4 +1,15 @@
 # Projet final du Kit Data Science 2020
+
+Ce projet académique a pour but d'évaluer les compétences en programmation Python couverte pendant l'enseignement à savoir :
+
+* récupération de données via webscrapping
+* nettoyage et manipulation des données sur Pandas
+* utilisation des timeseries
+* visualisations via diverses libraires
+
+Le notebook est consultable ici et fait référence à plusieurs fichiers pickle. Il nécessite l'installation des librairies
+
+# Enoncé
 Le projet final du Kit Data Science 2020 porte sur les données du **Vendée Globe 2020-2021**.
 
 Le projet se déroule **du vendredi 20 et le 30 lundi novembre 2020** date limite pour rendre vos projets respectifs.
