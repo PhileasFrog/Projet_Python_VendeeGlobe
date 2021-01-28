@@ -1,3 +1,5 @@
+![logo](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Logo_T%C3%A9l%C3%A9com_ParisTech.svg)
+
 # Projet final du Kit Data Science 2020
 
 Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné par Francis Wolinski (https://github.com/fran6w) à Telecom Paris pour le mastère spécialisé Big Data et IA. Il couvre les différents aspect :
@@ -5,7 +7,9 @@ Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné
 * récupération de données par scrapping (beautiful soup)
 * nettoyage et manipulation des données sur Pandas
 * utilisation des timeseries
+![timeserie](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Timeserie.PNG) 
 * visualisations via diverses libraires
+![carte](https://github.com/PhileasFrog/VendeeGlobe/blob/main/image/Exemple_Carte.PNG) 
 
 Le notebook est consultable [ici](https://github.com/PhileasFrog/VendeeGlobe/blob/main/Projet_Jeancler_Dominique.ipynb). Il nécessite l'installation de la librairie ipyleaflet installable directement dans le notebook via la commande `pip install ipyleaflet` et `--py --sys-prefix ipyleaflet`
 
