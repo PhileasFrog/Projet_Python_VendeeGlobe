@@ -7,7 +7,7 @@ Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné
 * utilisation des timeseries
 * visualisations via diverses libraires
 
-Le notebook est consultable [notebook](https://github.com/PhileasFrog/VendeeGlobe/blob/main/Projet_Jeancler_Dominique.ipynb). Il nécessite l'installation la librairies ipyleaflet installable directement dans le notebook via la commande `pip`
+Le notebook est consultable [ici](https://github.com/PhileasFrog/VendeeGlobe/blob/main/Projet_Jeancler_Dominique.ipynb). Il nécessite l'installation la librairies ipyleaflet installable directement dans le notebook via la commande `pip install ipyleaflet` et `--py --sys-prefix ipyleaflet`
 
 # Enoncé 
 ## source https://github.com/fran6w/MDI721/tree/master/projet_final
