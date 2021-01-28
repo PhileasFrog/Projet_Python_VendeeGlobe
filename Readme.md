@@ -9,7 +9,9 @@ Ce projet académique évalue et clôture l'enseignement donné par Francis Woli
 
 Le notebook est consultable ici et fait référence à plusieurs fichiers pickle. Il nécessite l'installation des librairies
 
-# Enoncé (source https://github.com/fran6w/MDI721/tree/master/projet_final)
+# Enoncé 
+## source https://github.com/fran6w/MDI721/tree/master/projet_final
+
 Le projet final du Kit Data Science 2020 porte sur les données du **Vendée Globe 2020-2021**.
 
 Le projet se déroule **du vendredi 20 et le 30 lundi novembre 2020** date limite pour rendre vos projets respectifs.
