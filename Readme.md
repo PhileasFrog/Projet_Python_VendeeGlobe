@@ -1,13 +1,13 @@
 # Projet final du Kit Data Science 2020
 
-Ce projet académique évalue et clôture l'enseignement donné par Francis Wolinski (https://github.com/fran6w) à Telecom Paris pour le mastère spécialisé Big Data et IA. Il couvre les différents aspect :
+Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné par Francis Wolinski (https://github.com/fran6w) à Telecom Paris pour le mastère spécialisé Big Data et IA. Il couvre les différents aspect :
 
 * récupération de données par scrapping (beautiful soup)
 * nettoyage et manipulation des données sur Pandas
 * utilisation des timeseries
 * visualisations via diverses libraires
 
-Le notebook est consultable ici et fait référence à plusieurs fichiers pickle. Il nécessite l'installation des librairies
+Le notebook est consultable [notebook](https://github.com/PhileasFrog/VendeeGlobe/blob/main/Projet_Jeancler_Dominique.ipynb). Il nécessite l'installation la librairies ipyleaflet installable directement dans le notebook via la commande `pip`
 
 # Enoncé 
 ## source https://github.com/fran6w/MDI721/tree/master/projet_final
